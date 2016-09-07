@@ -12,5 +12,13 @@
     "bluebird": "^3.4.1",
     "talib": "^1.0.2",
     "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^3.0.1",
+    "mocha": "^3.0.2",
+    "request": "^2.74.0",
+    "should": "^11.1.0",
+    "underscore": "^1.8.3"
   }
 }
