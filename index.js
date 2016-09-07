@@ -3,6 +3,11 @@ var Promise = require("bluebird");
 var _ = require("underscore");
 
 module.exports = {
+	
+	functions: talib.functions,
+
+	version: talib.version,
+
 	execute: function (params) {
 		return new Promise(function(resolve, reject) {
 			talib.execute(params, function (data) {
