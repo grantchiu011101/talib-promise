@@ -1,6 +1,6 @@
 {
   "name": "talib-promise",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "promisify wrapper about TA-LIB",
   "main": "index.js",
   "scripts": {
