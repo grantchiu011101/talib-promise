@@ -6,7 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grantchiu011101/talib-promise.git"
+  },
+  "author": "Grant Fong <grantchiu011101@gmail.com>",
+  "keywords": [
+    "talib",
+    "promise",
+    "technical analysis",
+    "financial markets"
+  ],
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.4.1",
